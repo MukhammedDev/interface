@@ -3,13 +3,7 @@ package java24;
 
 public class Main {
     static void main() {
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
-        System.out.println("New code");
+        System.out.println("Java 24");
 
         NotificationService[] notificationServices = new NotificationService[15];
         for (int i = 0; i < 15; i++) {
